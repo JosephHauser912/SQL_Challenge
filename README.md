@@ -9,10 +9,16 @@ by year and later month.
 
 
 
-![Prec in Inches](https://github.com/JosephHauser912/SQL_Challenge/assets/67341300/e0821a15-40e0-4094-9b98-95783d844620)
+
+
+
+![image](https://github.com/JosephHauser912/SQL_Challenge/assets/67341300/2beb6cd5-d78d-4b7e-9bcd-c85876a903b6)
+
 I was also able to query into specific weather stations to see specific precipitation scores, namely in the last year. 
 
 
-![TempObs](https://github.com/JosephHauser912/SQL_Challenge/assets/67341300/387a7fce-4653-471d-afeb-ab93826bbbf4)
+
+![download (4)](https://github.com/JosephHauser912/SQL_Challenge/assets/67341300/7a001f4a-5e3d-4e14-90fd-6d60771eeb36)
+
 I also created a query to display the last twelve months of temperature observation data for the most active station and plot it
 as a histogram.
